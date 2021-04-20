@@ -1,7 +1,7 @@
 stream-python
 =============
 
-[![build](https://github.com/GetStream/stream-python/workflows/build/badge.svg)](https://github.com/GetStream/stream-python/actions) [![codecov](https://codecov.io/gh/GetStream/stream-python/branch/master/graph/badge.svg)](https://codecov.io/gh/GetStream/stream-python) [![PyPI version](https://badge.fury.io/py/stream-python.svg)](http://badge.fury.io/py/stream-python)
+[![build](https://github.com/GetStream/stream-python/workflows/build/badge.svg)](https://github.com/GetStream/stream-python/actions) [![PyPI version](https://badge.fury.io/py/stream-python.svg)](http://badge.fury.io/py/stream-python) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/stream-python.svg)
 
 [stream-python](https://github.com/GetStream/stream-python) is the official Python client for [Stream](https://getstream.io/), a web service for building scalable newsfeeds and activity streams.
 
@@ -10,10 +10,6 @@ Note there is also a higher level [Django - Stream integration](https://github.c
 You can sign up for a Stream account at https://getstream.io/get_started.
 
 ### Installation
-
-stream-python supports:
-
-- Python (3.5, 3.6, 3.7, 3.8)
 
 #### Install from Pypi
 
@@ -188,6 +184,11 @@ If unsure you can also test using the Pypi test servers `twine upload --reposito
 
 ### Copyright and License Information
 
-Copyright (c) 2014-2017 Stream.io Inc, and individual contributors. All rights reserved.
+Project is licensed under the [BSD 3-Clause](LICENSE).
 
-See the file "LICENSE" for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
+## We are hiring!
+
+We've recently closed a [$38 million Series B funding round](https://techcrunch.com/2021/03/04/stream-raises-38m-as-its-chat-and-activity-feed-apis-power-communications-for-1b-users/) and we keep actively growing.
+Our APIs are used by more than a billion end-users, and you'll have a chance to make a huge impact on the product within a team of the strongest engineers all over the world.
+
+Check out our current openings and apply via [Stream's website](https://getstream.io/team/#jobs).
